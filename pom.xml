@@ -30,8 +30,8 @@
 		<javac.target>1.8</javac.target>
 
         <javax.json.version>1.0</javax.json.version>
-		<javax.jsonb.version>1.0.0-M1</javax.jsonb.version>
-        <jackson.version>2.9.0.pr1</jackson.version>
+		<javax.jsonb.version>1.0</javax.jsonb.version>
+        <jackson.version>2.12.5</jackson.version>
 		
 		<junit.version>4.12</junit.version>
 		<mockito.version>1.9.5</mockito.version>
